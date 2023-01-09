@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 63eb3417e45ee254381c52f0fe8572d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bert_character_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1836
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4242fa8921bec54591634dd77373a59
+      internalID: 1497327715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1890
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f718efbe099501c41855f3b968b547d9
+      internalID: -912091448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1890
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240aac31387bc934fabd0eb8794789c6
+      internalID: 580889525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1890
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc323a9d4120a4a8da7887417a1264
+      internalID: -1950853147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1890
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5745c43fe7a394ba8a20146be0f45c
+      internalID: -834508662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1536
+        width: 136
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99744dee95616a04388d0ccac46e30e9
+      internalID: 1947509231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1536
+        width: 136
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e06d25d3fe0f2e4288cd9c7598c7532
+      internalID: -1983759510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1536
+        width: 136
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe0e442ade66e6409edf848cf634c5e
+      internalID: 1140944848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1536
+        width: 136
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40697dbbb2a35c4e8de0669062ddabd
+      internalID: -1633944002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1536
+        width: 140
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a8048dc4c184e4591aa409c9fa63a1
+      internalID: 1124733014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1536
+        width: 144
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a830032ce59dc43b038725838c483e
+      internalID: 914054513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_11
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1536
+        width: 136
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b995ff701f0e84bae58282f223bcda
+      internalID: -662911720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_12
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1536
+        width: 135
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc194e10c00da4499ff07a929471a18
+      internalID: -798805400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_13
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1536
+        width: 136
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df88ad9a1e3244ea101f2d56ddc2ab
+      internalID: -182635392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_14
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1536
+        width: 134
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9cd7a78a153bf408f29441249507a2
+      internalID: -1229513676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_15
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1524
+        width: 143
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e3a12113e000b4083173e3664fc0b9
+      internalID: 2056623434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_16
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1540
+        width: 144
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99366eea9a8e887408d0f12cf9ccb34c
+      internalID: -352007981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_17
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1548
+        width: 152
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18e4b62093a5fe49bdeaff32a005b69
+      internalID: -407220443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1208
+        width: 140
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1e228eaa0a974fb38e502d7897bb3
+      internalID: -889515303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1208
+        width: 144
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba8f97141774d247bf23dbbb16efbed
+      internalID: -595846134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1208
+        width: 140
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fd5e262dc46cd42a03af2f749798cf
+      internalID: 1346749655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1208
+        width: 152
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92349616e3b69f8429250c8dbb516fcd
+      internalID: 1712902306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1208
+        width: 152
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ce4a3cff5b1c4a812de4b27bfa8ab
+      internalID: 457136288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1208
+        width: 144
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9cfff33a7214a48b930be4ed6fa657
+      internalID: 383828836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1208
+        width: 140
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b928d857fd78948af9c1d84bac2f72
+      internalID: 1907183118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_25
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1208
+        width: 140
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eccdfbf27797084ca0d3d6dce65a911
+      internalID: -1203446393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_26
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1208
+        width: 140
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03d405faea73e439b34423b6d4e0d8
+      internalID: -124980987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_27
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1208
+        width: 140
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d69d4df7d51b4296cff7bfda7a0ac
+      internalID: 1099646086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 908
+        width: 152
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f527bae98859a6941938c0ea3533d0e8
+      internalID: -1396924699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 908
+        width: 232
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffada8e7e35fd954ba1f2cd236144dd5
+      internalID: -983735367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 908
+        width: 152
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a860464a2b992ce42ba7e1aae92c1599
+      internalID: 302833604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 908
+        width: 144
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211951fe04a8f3f4a9624825e19dad74
+      internalID: -1910720314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 620
+        width: 183
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ded45a51da6fa4c87d4ee9b149e685
+      internalID: -1993123450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 620
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375824728c9f830438221ea8cc0522f9
+      internalID: 1698363932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 620
+        width: 240
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2d965ae2b64b498d35b5a21f94dc2
+      internalID: 316650415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_35
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 620
+        width: 240
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f10d71a57f5b1042bd81e7fc46f7607
+      internalID: 158102511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_36
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 620
+        width: 240
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf9f72fd04c1194dba328d0d4c78059
+      internalID: 488229917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_37
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 620
+        width: 240
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5781e71188d5743a87d118e98b4dfe
+      internalID: -1778477675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_38
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 620
+        width: 240
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0479154c5502144ca5eab1264cecdbb
+      internalID: 809397668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 332
+        width: 168
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049cfae6deac31c47a3266e223267994
+      internalID: 1627906084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 332
+        width: 144
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254d9250cc09c5d45b6fbca602a0d1ea
+      internalID: 841169151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 401
+        width: 164
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9550ef16b9bc512449f62f7cd511f4e6
+      internalID: -306043593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 470
+        width: 280
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84279c3aa02c0fc4d945a1baa216f172
+      internalID: -1513162287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_43
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 393
+        width: 232
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de31d145039837b49840a9a6cb76322a
+      internalID: 1789513664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 428
+        width: 284
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d2e4bc6133f024c9f06bc797504c11
+      internalID: 1082084012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_45
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 385
+        width: 292
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4b63d7da00f248bf966f7f122ec33
+      internalID: -1759054430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_46
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2
+        width: 248
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24849377d903e774b9d008f950cd4d96
+      internalID: -1702742267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bert_character_47
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 392
+        width: 216
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c823ce51339b445b15a488a2d430a3
+      internalID: -1439882206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bert_character_27: 1099646086
+      Bert_character_35: 158102511
+      Bert_character_36: 488229917
+      Bert_character_14: -1229513676
+      Bert_character_25: -1203446393
+      Bert_character_26: -124980987
+      Bert_character_21: 1712902306
+      Bert_character_28: -1396924699
+      Bert_character_33: 1698363932
+      Bert_character_41: -306043593
+      Bert_character_31: -1910720314
+      Bert_character_22: 457136288
+      Bert_character_47: -1439882206
+      Bert_character_7: 1140944848
+      Bert_character_44: 1082084012
+      Bert_character_37: -1778477675
+      Bert_character_9: 1124733014
+      Bert_character_18: -889515303
+      Bert_character_42: -1513162287
+      Bert_character_15: 2056623434
+      Bert_character_24: 1907183118
+      Bert_character_19: -595846134
+      Bert_character_23: 383828836
+      Bert_character_29: -983735367
+      Bert_character_13: -182635392
+      Bert_character_10: 914054513
+      Bert_character_34: 316650415
+      Bert_character_45: -1759054430
+      Bert_character_16: -352007981
+      Bert_character_30: 302833604
+      Bert_character_20: 1346749655
+      Bert_character_12: -798805400
+      Bert_character_6: -1983759510
+      Bert_character_40: 841169151
+      Bert_character_11: -662911720
+      Bert_character_3: -1950853147
+      Bert_character_8: -1633944002
+      Bert_character_39: 1627906084
+      Bert_character_38: 809397668
+      Bert_character_46: -1702742267
+      Bert_character_5: 1947509231
+      Bert_character_2: 580889525
+      Bert_character_17: -407220443
+      Bert_character_43: 1789513664
+      Bert_character_0: 1497327715
+      Bert_character_4: -834508662
+      Bert_character_32: -1993123450
+      Bert_character_1: -912091448
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
