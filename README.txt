@@ -12,3 +12,6 @@ Añadida una escena de menú para que el juego no corra a la vez que el menú.
 (Se aceptan consideraciones estéticas)
 3.1------
 Cambios estéticos en el menú
+3.2------
+Más cambios estéticos y ajustes en las colisiones.
+ajuste de la caja de golpeo y creación de un punto de referencia para los golpes.
