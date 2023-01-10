@@ -9,7 +9,6 @@ public class HealthItem : Item
     public void HitByPlayer   (float damage, CharacterBeatController player)
     {
         base.HitByPlayer(damage, player);
-
         m_player.AddHealth(m_health);
     }
 

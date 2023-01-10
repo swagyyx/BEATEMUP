@@ -34,7 +34,7 @@ public class Item : MonoBehaviour, IHittableGameObjectByPlayer
 
         if (m_sfx != null)
         {
-            m_sfx.Play();
+            m_sfx.Play(0);
         }
 
         GetComponent<SpriteRenderer>().enabled = false;
