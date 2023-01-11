@@ -19,3 +19,7 @@ ajuste de la caja de golpeo y creación de un punto de referencia para los golpe
 He intentado arreglar el audio, pero no lo consigo; te lo dejo a ti.
 3.4-------
 no he hecho nada
+4.0-------
+Canvas añadido
+Bert con barra de vida y su nombre debajo
+Foto de Bert añadida
