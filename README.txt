@@ -17,3 +17,5 @@ Más cambios estéticos y ajustes en las colisiones.
 ajuste de la caja de golpeo y creación de un punto de referencia para los golpes.
 3.3-------
 He intentado arreglar el audio, pero no lo consigo; te lo dejo a ti.
+3.4-------
+no he hecho nada

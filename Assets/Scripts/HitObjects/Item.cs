@@ -30,7 +30,6 @@ public class Item : MonoBehaviour, IHittableGameObjectByPlayer
     {
         m_player = player;
 
-        m_sfx = GetComponent<AudioSource>();
 
         if (m_sfx != null)
         {
